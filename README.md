@@ -6,7 +6,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I capitalist 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=AANDDARK&show_icons=true" /></p>
-<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AANDDARK" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AANDDARK" />
 <!---
 AANDDARK/AANDDARK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
