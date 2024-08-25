@@ -6,7 +6,7 @@
 - 😄 Pronouns: He
 - ⚡ Fun fact: I capitalist 
 <p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/razenxc?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <!---
