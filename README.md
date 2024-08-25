@@ -5,9 +5,7 @@
 - 📫 How to reach me Ukraine Poltavian obl. city: Kremenchuk
 - 😄 Pronouns: He
 - ⚡ Fun fact: I capitalist 
-<p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AANDDARK&show_icons=true)
 
 <!---
 AANDDARK/AANDDARK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
