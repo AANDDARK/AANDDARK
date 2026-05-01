@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AANDDARK&label=Profile%20views&color=0e75b6&style=flat" alt="razenxc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AANDDARK&label=Profile%20views&color=0e75b6&style=flat" alt="aanddark" /> </p>
 - my soul die
 Some about me
 - local first enjoyer and engeenier
